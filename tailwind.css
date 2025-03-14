@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bike-primary: #e76f51;
+  --color-carousel-bg: rgba(231, 111, 81, 0.1);
+}
